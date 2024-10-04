@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mquijanoj09)](https://github.com/mquijanoj09/github-readme-stats)
 
 <!--
 **mquijanoj09/mquijanoj09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
