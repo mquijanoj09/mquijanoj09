@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Miguel Quijano, a web developer crafting intuitive, visually stunning, and functional web apps.
+Hi, I'm Miguel Quijano, a Web developer with a high level of english, certified in the lastest frontend technologies and frameworks such as JavaScript, TypeScript, HTML, CSS, React and Next JS, with a strong commitment to teamwork, as well as the ability to acquire aptitudes for leadership, dedication to work and desire to face new challenges.
+
 
 # 🧑‍💻 Most Used Lenguages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mquijanoj09&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
